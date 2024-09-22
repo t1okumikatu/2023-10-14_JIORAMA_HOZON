@@ -9,3 +9,5 @@ https://youtu.be/kaHO2_MfrAs?si=KUHBr8Zck4DCBhwr
 列車の位置番号とスピードモニタのスケッチです
 
 ![image](https://github.com/user-attachments/assets/d087eb56-dc63-4021-9acc-49075b9ec5b9)
+
+![image](https://github.com/user-attachments/assets/b92f466a-2272-419e-9f38-bbcd24ad6365)
